@@ -1,0 +1,25 @@
+{
+  "name": "@omarabdullah107/bmi",
+  "version": "1.0.0",
+  "description": "calculating the bmi of a person",
+  "main": "index.js",
+  "scripts": {
+    "test": "BMI"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarabdullah107/bmi-npm-package.git"
+  },
+  "keywords": [
+    "BMI"
+  ],
+  "author": "omarabdullah107",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarabdullah107/bmi-npm-package/issues"
+  },
+  "homepage": "https://github.com/omarabdullah107/bmi-npm-package#readme",
+  "dependencies": {
+    "@omarabdullah107/convert": "^1.0.0"
+  }
+}

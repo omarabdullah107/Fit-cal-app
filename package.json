@@ -1,0 +1,25 @@
+{
+  "name": "fit",
+  "version": "1.0.0",
+  "description": "simple app to measure your obesity scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "fit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarabdullah107/Fit-cal-app.git"
+  },
+  "keywords": [
+    "FIT"
+  ],
+  "author": "omarabdullah107",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarabdullah107/Fit-cal-app/issues"
+  },
+  "homepage": "https://github.com/omarabdullah107/Fit-cal-app#readme",
+  "dependencies": {
+    "@omarabdullah107/bmi": "^1.0.0"
+  }
+}
