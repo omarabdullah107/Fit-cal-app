@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/omarabdullah107/Fit-cal-app#readme",
   "dependencies": {
-    "@omarabdullah107/bmi": "^1.0.0"
+    "@omarabdullah107/bmi": "^1.2.0"
   }
 }
